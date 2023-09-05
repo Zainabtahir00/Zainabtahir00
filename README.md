@@ -1,11 +1,9 @@
-[![MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif.)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Zainab Tahir</h1>
 <h3 align="center">Andriod Developer (Flutter)</h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KLNKfPt8wMIZF9KxweN01HJmdtc2XCXba3fkscRV0ZoPGx_67caott-tZ_lTKujZmMA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabtahir00&label=Profile%20views&color=0e75b6&style=flat" alt="zainabtahir00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabtahir00" alt="zainabtahir00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zaini35479094" target="blank"><img src="https://img.shields.io/twitter/follow/zaini35479094?logo=twitter&style=for-the-badge" alt="zaini35479094" /></a> </p>
 
